@@ -1,5 +1,5 @@
 // how much time?
-var countdownMax = 1;
+var countdownMax = 30;
 var countdown = countdownMax;
 var lastStart = 0;
 var counting = false;
